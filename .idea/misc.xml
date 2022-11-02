@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/drawable/boder_custom.xml" value="0.158" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/drawable/btn_dangky_in.xml" value="0.158" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/drawable/btn_dangky_out.xml" value="0.158" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/drawable/edit_btn_gray.xml" value="0.165" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout-w1240dp/activity_lab5.xml" value="0.1" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout-w1240dp/activity_link.xml" value="0.1606425702811245" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout-w1240dp/item_news.xml" value="0.107095046854083" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_danh_sach_khoa_hoc.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_facebook.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_lab5.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_link.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_login2.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_maps_web_view2.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_mon_hoc.xml" value="0.264" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_new.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_splash_sreen.xml" value="0.2359375" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/activity_web_view.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/boder_custom.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/dialog_danh_sach_khoa_hoc_detail.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/dialog_item_dangkymonhoc.xml" value="0.264" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/fragment_danh_sach_khoa_hoc.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/item_dangkymonhoc.xml" value="0.25" />
+        <entry key="..\:/Users/Kantun/AndroidStudioProjects/Android_Advanced/AssignmentAndroidAdvanced/app/src/main/res/layout/item_news.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
